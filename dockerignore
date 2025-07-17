@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files
+*.csv
+*.zip
+*.pdf
+
+# Machine learning artifacts
+*.pkl
+*.joblib
+
+# Model directory (avoid tracking trained models)
+models/
+models/*.pkl
+
+# Data directory (optional: ignore raw/processed if large/sensitive)
+data/
+data/raw/
+data/processed/
+
+# Logs and environment files
+*.log
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
