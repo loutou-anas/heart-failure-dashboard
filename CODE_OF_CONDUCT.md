@@ -18,7 +18,7 @@ Examples of unacceptable behavior:
 - Publishing others’ private information without explicit permission
 
 ## Enforcement
-Instances of abusive or otherwise unacceptable behavior may be reported by contacting the project maintainer at: **your-email@example.com**.
+Instances of abusive or otherwise unacceptable behavior may be reported by contacting the project maintainer at: **anasloutou20@gmail.com**.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
