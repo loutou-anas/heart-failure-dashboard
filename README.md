@@ -74,6 +74,14 @@ streamlit run dashboard/app.py
 
 ---
 
+# 🌫️ Live Heart Failure Risk & Stay Duration Prediction
+
+🚀 **Live Demo:** [View Streamlit Dashboard](https://https://heart-failure-dashboard.streamlit.app)
+
+An end-to-end data science and analytics project ...
+
+---
+
 ## 📄 Author & License
 
 **Author**: Anas Loutou
