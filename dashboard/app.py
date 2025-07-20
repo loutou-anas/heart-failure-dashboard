@@ -11,10 +11,12 @@ import os
 
 
 # Load models
-MODEL_PATH = os.path.join(os.path.dirname(__file__), '..', 'models', 'risk_scoring_model.pkl')
+MODEL_PATH = os.path.join('models', 'risk_scoring_model.pkl')
 risk_model = joblib.load(MODEL_PATH)
-STAY_MODEL_PATH = os.path.join(os.path.dirname(__file__), '..', 'models', 'stay_length_model.pkl')
+
+STAY_MODEL_PATH = os.path.join('models', 'stay_length_model.pkl')
 stay_model = joblib.load(STAY_MODEL_PATH)
+
 
 # Title
 st.title("🏥 Heart Failure Risk & Stay Prediction Dashboard")
